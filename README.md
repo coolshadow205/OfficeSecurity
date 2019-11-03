@@ -1,2 +1,2 @@
-# smartSocietyCrud
-Website to perform the basic activities for 'Smart Society project'.
+# officeSecurityCrud
+Website to perform the basic activities for 'Office Security project'.
